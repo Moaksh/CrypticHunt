@@ -1,0 +1,15 @@
+body{
+  margin:0;
+  padding:0;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#container{
+    font-family: consolas;
+    font-size: 50px;
+    padding: 10px;
+    font-style: italic;
+    color: white;
+    margin-top: 25%;
+        
+}
